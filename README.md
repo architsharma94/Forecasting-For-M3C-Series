@@ -1,5 +1,12 @@
 # Forecasting-For-M3C-Series
 
+# Repository guide:
+
+* Data => M3C_reduced_2019.xlsx
+* Code => code.R
+* Analysis and Reporting => Forecasting for M3C Series
+* Supporting script => GoFVals.R, GoFVals_damped.R, LEIC.R, MASE.forecast.R, MASEvalues.R, MASEvalues_damped.R, MATH1307_utilityFunctions.R, mdl9_scripts.R, pVal.R
+
 ## Introduction
 
 The M3C dataset (International Institute of Forecasters, 2019) consists of 997 time series which is segregated under 3 time periods i.e. yearly, quarterly and monthly and 5 primary categories which are micro-economic, macro-economic, industrial, financial, and demographic. Each of the series have different lengths and time range.
